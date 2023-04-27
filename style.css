@@ -1,0 +1,23 @@
+body {
+    margin: 0%;
+}
+
+nav {
+    display: flex;
+    background-color: #a306b6;
+
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
